@@ -1,4 +1,5 @@
-do one thing well
+* find me on linkedin: [xdsarkar](https://www.linkedin.com/in/xdsarkar/)
+* find me on stackoverflow: [shmsr](https://stackoverflow.com/users/5821408/shmsr?tab=profile)
 <!--
 **shmsr/shmsr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
