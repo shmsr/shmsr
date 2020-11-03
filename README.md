@@ -14,7 +14,7 @@
 <br />
 <br />
 
-**I have OSS contributions in the following projects:**
+**I have OSS contribution(s) :octocat: in the following projects:**
 - [golang/go](https://github.com/golang/go)
 - [prometheus/statsd_exporter](https://github.com/prometheus/statsd_exporter)
 - [microsoft/ethr](https://github.com/microsoft/ethr)
