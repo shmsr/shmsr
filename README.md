@@ -10,6 +10,3 @@
 <a href="mailto:sarkar.subhams2@gmail.com">
   <img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/gmail.svg" />
 </a>
-<a href="https://keybase.io/xdsarkar">
-  <img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/keybase.svg" />
-</a>
